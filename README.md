@@ -14,6 +14,7 @@ PM2,
 AWS S3/EC2/Lambda,
 Github Actions CI/CD,
 Flutter/Dart,
-React.js
+React.js,
+Figma
 
 📫 premchand_kodali@yahoo.com
